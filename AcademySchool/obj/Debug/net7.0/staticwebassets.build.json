@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "RyxVOd4BVcQktIpCl9qW5IaB1v9ktfkGJ7Lj1Xesv1I=",
+  "Source": "AcademySchool",
+  "BasePath": "_content/AcademySchool",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AcademySchool\\wwwroot",
+      "Source": "AcademySchool",
+      "ContentRoot": "C:\\Users\\SETTING\\Documents\\practica .NET core\\AcademySchool\\AcademySchool\\wwwroot\\",
+      "BasePath": "_content/AcademySchool",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
